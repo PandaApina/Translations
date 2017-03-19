@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Notifications -->
+    <string name="notifications_setting_title">ILMOITUKSET</string>
+    <string name="notif">Ilmoitukset</string>
+    <string name="facebook_message">Viesti-ilmoitukset</string>
+    <string name="facebook_notifications">Facebook-ilmoitukset</string>
+    <string name="applying_changes">Asetetaan muutoksia</string>
+    <string name="sync_problem">Evästeitä ei voida synkronoida. Kokeile käynnistää sovellus uudelleen</string>
+    <string name="notification_sound_description">Valitse soittoääni tai hiljaisuus: \u0020</string>
+    <string name="notifications_settings">Ilmoitusasetukset</string>
+    <string name="notifications_settings_description">Lisäasetukset. Valitse aikaväli, vaihda ääniä, LED ja värinä.</string>
+    <string name="interval_pref">Tarkistuksen aikaväli</string>
+    <string name="notification_sound">Ilmoitusääni</string>
+    <string name="interval_pref_description_new">Ilmoitukset tarkistetaan joka %s.</string>
+    <string name="notification_sound_msg">Viestiääni</string>
+    <string name="vibrate">Värinä</string>
+    <string name="vibrate_double">Tuplavärinä</string>
+    <string name="led_light">LED valo</string>
+    <string name="flashlight_as_led">Taskulamppu LED valona</string>
+    <string name="flashlight_as_led_summary_msg">Käytä taskulamppua LED valona Facebook viesteille (kamera led).</string>
+    <string name="flashlight_as_led_summary_notif">Käytä taskulamppua LED valona Facebook ílmoituksille (kamera led).</string>
+
+    <string-array name="intervalPrefTitles">
+        <item>1 minuutti</item>
+        <item>2 minuuttia</item>
+        <item>5 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>1 tunti</item>
+        <item>3 tuntia</item>
+        <item>6 tuntia</item>
+    </string-array>
+    <!-- End Notifications -->
+
+    <!-- General -->
+    <string name="general_setting_title">YLEISET</string>
+    <string name="location_enabled_title">Location access</string>
+    <string name="location_enabled_summary">Enable this to allow Facebook to obtain your location.</string>
+    <string name="hide_editor_newsfeed_title">Hide Status editor in News Feed</string>
+    <string name="hide_editor_newsfeed_summary">When enabled, the status editor will be hidden on the News Feed.</string>
+    <string name="hide_editor_newsfeed_snackbar">Reload for changes to take effect</string>
+    <string name="stop_images_title">Don\'t load images</string>
+    <string name="stop_images_summary">When enabled, wont download images. Some images may remain in the cache.</string>
+    <string name="hide_sponsored_title">Hide &#8216;Sponsored&#8217; Content</string>
+    <string name="hide_sponsored_summary">Hide &#8216;Sponsored&#8217; content (ads) from the feed.</string>
+    <string name="hide_birthdays_title">Hide Birthdays</string>
+    <string name="hide_birthdays_summary">Hide birthdays from the feed, events and notifications.</string>
+    <string name="start_in_messages">Start in messages</string>
+    <string name="start_in_messages_summary">Load the message website when the app is opened.</string>
+    <string name="hide_menu_bar_title">Hide Menu bar</string>
+    <string name="hide_menu_bar_summary">When enabled, the Facebook Menu bar will be hidden.</string>
+    <!-- End general -->
+
+    <!-- About -->
+    <string name="more">More and credits</string>
+    <string name="about_updates">Updates</string>
+    <string name="updates">Check for a new version</string>
+    <string name="updates_summary">Load the page and download the latest version</string>
+    <string name="people_who_translated">Users who translated the app</string>
+    <string name="devs_who_helped_me">Developers who helped me answering my questions and taking code from their apps</string>
+    <string name="help_translations">Help me to translate the app to your language</string>
+    <string name="about_translations">Help, we need you</string>
+    <string name="source_code">Source code on Github</string>
+    <string name="withYou">Report bugs or request new features</string>
+    <string name="changelog">Changelog</string>
+    <!-- End about -->
+
+    <!-- Appearence -->
+    <string name="appearance_setting_title">APPEARANCE</string>
+    <string name="web_themes">Web themes</string>
+    <string name="web_themes_summary">You can choose different web themes.</string>
+    <string name="app_themes">App themes</string>
+    <string name="app_themes_summary">You can choose different app themes.</string>
+
+    <!-- Navigation -->
+    <string name="navigation_setting_title">NAVIGATION</string>
+    <string name="hide_fab_on_scroll_title">Hide Floating Action Button on scroll</string>
+    <string name="hide_fab_on_scroll_summary">Hide the FAB when scrolling down.</string>
+    <string name="navigation_menu_settings">Navigation menu items</string>
+    <string name="navigation_menu_settings_description">You can show/hide items in the navigation menu.</string>
+    <string name="save_data">Lower data mode</string>
+    <string name="save_data_summary">Load the Facebook in basic version also disable the badges and profile info. updates.</string>
+    <string name="clearcache">Clear cache on exit</string>
+    <string name="clearcache_summary">It will take more time to open the app.</string>
+    <string name="fab_enable">Floating Action Button</string>
+    <string name="fab_enable_summary">Show the FAB.</string>
+    <!-- Navigation: fab -->
+    <string name="fab_text">Post a status</string>
+    <string name="fab_photo">Post a photo</string>
+    <string name="fab_checkin">Check In</string>
+    <string name="fab_jump_top">Jump to Top</string>
+    <!-- Navigation: items -->
+    <string name="navigation_menu_title">NAVIGATION MENU</string>
+    <string name="ic_menu_exitapp">Exit app</string>
+    <string name="ic_menu_exitapp_summary">Show &#8216;Exit app&#8217; button on navigation drawer.</string>
+    <string name="ic_menu_fblogout">Log out</string>
+    <string name="ic_menu_fblogout_summary">Show &#8216;Log out&#8217; button on navigation drawer.</string>
+    <string name="menu_photos">Photos</string>
+    <string name="menu_photos_summary">Show &#8216;Photos&#8217; button on navigation drawer.</string>
+    <string name="menu_events">Events</string>
+    <string name="menu_events_summary">Show &#8216;Events&#8217; button on navigation drawer.</string>
+    <string name="menu_back">Back</string>
+    <string name="menu_back_summary">Show &#8216;Back&#8217; button on navigation drawer.</string>
+    <string name="menu_top_stories">Top stories</string>
+    <string name="menu_top_stories_summary">Show &#8216;Top stories&#8217; button on navigation drawer.</string>
+    <string name="menu_most_recent">Most Recent</string>
+    <string name="menu_most_recent_summary">Show &#8216;Most Recent&#8217; button on navigation drawer.</string>
+    <string name="menu_friendreq">Friend Requests</string>
+    <string name="menu_friendreq_summary">Show &#8216;Friend Requests&#8217; button on navigation drawer.</string>
+    <string name="menu_groups">Groups</string>
+    <string name="menu_groups_summary">Show &#8216;Groups&#8217; button on navigation drawer.</string>
+    <string name="menu_messages">Messages</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_search_summary">Show &#8216;Search&#8217; button on navigation drawer.</string>
+    <string name="menu_mainmenu">Main menu</string>
+    <string name="menu_mainmenu_summary">Show &#8216;Main menu&#8217; button on navigation drawer.</string>
+    <string name="messaging_enabled_title">Messaging</string>
+    <string name="messaging_enabled_summary">When enabled, will provide access to Facebook Messages. Disable if you have a messaging app.</string>
+    <!-- End navigation -->
+
+    <!-- App -->
+    <string name="app_name">MaterialFBook</string>
+    <string name="silent">No sound</string>
+    <string name="file_logger_needs_permission">No access to external storage. Log cannot be saved</string>
+    <string name="facebook_app_id" translatable="false">1440102826005611</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="default_user">User</string>
+    <string name="header_profile_pic">Profile Picture</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="menu_fblogin">Login to Facebook</string>
+    <string name="context_save_image">Save image</string>
+    <string name="settings">Settings</string>
+    <string name="context_share_image">Share image</string>
+    <string name="context_copy_image_link">Copy image link</string>
+    <string name="context_share_link">Share link</string>
+    <string name="context_copy_link">Copy link</string>
+    <string name="context_share_image_progress">Sharing image…</string>
+    <string name="content_copy_link_done">Link copied to clipboard</string>
+    <string name="login_button">Login</string>
+    <string name="not_logged_in">You are not logged in</string>
+    <string name="error_login">Something went wrong, please try logging in again</string>
+    <string name="error_super_wrong">Something went super wrong</string>
+    <string name="error_facebook_noconnection">Could not access Facebook</string>
+    <string name="error_facebook_error">Something went wrong on Facebook\'s end</string>
+    <string name="loading">Ladataan</string>
+    <string name="permission_denied">Lupa evätty, toimintoa ei voida suorittaa loppuun</string>
+    <string name="downloaded">Ladatut</string>
+</resources>
